@@ -1,0 +1,14 @@
+How to create a discord bot:
+1. go to https://discord.com/developers/applications
+2. create an application
+3. go to the bot tab and click create applicaiton
+4. make sure to turn on priviledged gateway intents
+5. customize the bot with a profile picture and it's own tag
+6. get bot token 
+
+How to invite your bot:
+1. go to oauth2
+2. click url generator
+3. select bot 
+4. select the permissions you want
+5. copy link given and use to invite bot

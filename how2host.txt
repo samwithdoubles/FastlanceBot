@@ -1,0 +1,13 @@
+How to host your bot:
+1. go to uptimerobot.com
+2. create an account
+3. uncomment #keepalive.keepalive()
+	- uncomment by deleting the "#"
+4. run the command and take the webserver link on the top of the page on the right
+	- should be in the form of:
+	- https://repl-title--username.repl.co
+5. go to uptime robot and create new monitor
+6. select monitor type: https
+7. put your webserver link as url
+8. select alert contact
+9. create
