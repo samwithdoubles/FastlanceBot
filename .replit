@@ -21,3 +21,7 @@ channel = "stable-21_11"
 [unitTest]
 language = "python3"
 
+[[ports]]
+localPort = 8080
+externalPort = 80
+

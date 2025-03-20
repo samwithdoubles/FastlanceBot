@@ -10,6 +10,7 @@ numpy = "^1.22.2"
 discord = "^1.7.3"
 disnake = "^2.5.1"
 Flask = "^2.1.2"
+openai = "^1.67.0"
 
 [tool.poetry.dev-dependencies]
 
